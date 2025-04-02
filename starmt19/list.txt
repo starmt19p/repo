@@ -1,14 +1,26 @@
+id: 1
+name: test
+position: C:/Users/marti/Desktop/Document/Perso/Code/Code_Python/Projet Jeu/Deck Project/cards/test.png
+value: 2
+rarety: 1
+---
+id: 4
+name: test
+position: C:/Users/marti/Desktop/Document/Perso/Code/Code_Python/Projet Jeu/Deck Project/cards/test.png
+value: 2
+rarety: 3
+---
 id: 0
 name: test
 position: C:/Users/marti/Desktop/Document/Perso/Code/Code_Python/Projet Jeu/Deck Project/cards/test.png
 value: False
 rarety: 1
 ---
-id: 1
+id: 3
 name: test
 position: C:/Users/marti/Desktop/Document/Perso/Code/Code_Python/Projet Jeu/Deck Project/cards/test.png
-value: False
-rarety: 1
+value: 1
+rarety: 2
 ---
 id: 2
 name: test
@@ -16,27 +28,15 @@ position: C:/Users/marti/Desktop/Document/Perso/Code/Code_Python/Projet Jeu/Deck
 value: False
 rarety: 2
 ---
-id: 3
-name: test
-position: C:/Users/marti/Desktop/Document/Perso/Code/Code_Python/Projet Jeu/Deck Project/cards/test.png
-value: False
-rarety: 2
----
-id: 4
-name: test
-position: C:/Users/marti/Desktop/Document/Perso/Code/Code_Python/Projet Jeu/Deck Project/cards/test.png
-value: False
-rarety: 3
----
-id: 5
-name: test
-position: C:/Users/marti/Desktop/Document/Perso/Code/Code_Python/Projet Jeu/Deck Project/cards/test.png
-value: False
-rarety: 4
----
 id: 6
 name: test
 position: C:/Users/marti/Desktop/Document/Perso/Code/Code_Python/Projet Jeu/Deck Project/cards/test.png
 value: False
 rarety: 5
+---
+id: 5
+name: test
+position: C:/Users/marti/Desktop/Document/Perso/Code/Code_Python/Projet Jeu/Deck Project/cards/test.png
+value: 3
+rarety: 4
 ---

@@ -31,7 +31,7 @@ rarety: 3
 id: 5
 name: test
 position: C:/Users/marti/Desktop/Document/Perso/Code/Code_Python/Projet Jeu/Deck Project/cards/test.png
-value: 1
+value: 2
 rarety: 4
 ---
 id: 6
